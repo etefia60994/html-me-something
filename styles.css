@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 50px;  
+}
+img {
+    object-fit: scale-down;
+    max-width: 50%;
+    height: auto;
+    max-height: 80% ;
+  }
+body{
+    background-color: blanchedalmond
+}
+h1{
+    font: bolder
+}
+#top{
+    background-origin: padding-box;
+}
